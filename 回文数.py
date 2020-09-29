@@ -7,5 +7,4 @@ class Solution:
                 break
             if x[i] != x[l - i - 1]:
                 return False
-
         return True
